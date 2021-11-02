@@ -72,7 +72,7 @@ function Login() {
     return (
 
         <div className="container-fluid m-0 p-0 d-flex v-100 h-100 flex-column flex-md-column flex-lg-row flex-xl-row align-items-center justify-content-center" >
-{console.log(window.location)}
+
             <div className="divLogo d-flex align-items-center justify-content-center">
                 <img src={logo} className="logo" alt="logo" />
             </div>

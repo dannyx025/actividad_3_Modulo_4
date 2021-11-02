@@ -1,5 +1,5 @@
 # GitHub pages URL project
-https://dannyx025.github.io/Front-end-Frameworks/
+https://dannyx025.github.io/
 
 
 # Getting Started with Create React App

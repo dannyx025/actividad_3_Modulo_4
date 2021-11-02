@@ -1,0 +1,25 @@
+.tabsAnchor{
+ 
+    background-color: rgba(162, 191, 199, 0.8);
+    color: #223c4d !important;
+    font-weight: 600;
+ }
+ .tabsAnchor:active{
+ 
+    background-color: #5e7d92 !important;
+ } 
+ .tabsAnchor:hover{
+    color: rgba(162, 191, 199, 0.8) !important;
+    background-color: #223c4d !important;
+ }
+ 
+ .activeTab{
+ 
+    color: rgba(162, 191, 199, 0.8) !important;
+    background-color: #223c4d !important;
+ 
+ }
+ .tabsMain{
+ 
+ border-radius: 50px;
+ }

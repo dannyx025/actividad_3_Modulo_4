@@ -1,0 +1,19 @@
+.profile{
+
+    height: 80vh !important;
+ 
+}
+
+.avatar{
+
+    width: 250px ;
+    border-radius: 50%;
+    padding: 5px;
+ background: #833ab4; 
+ background: -webkit-linear-gradient(to bottom, #2b4e64, #6f1747, #fb333d); 
+ background: linear-gradient(to bottom, #2b4e64, #6f1747, #fb333d);
+}
+.exit:hover{
+
+    cursor: pointer;
+}

@@ -1,0 +1,106 @@
+body{
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.divLogo{
+
+background-color: #e4f4fd;
+
+}
+
+.divLogin{
+
+background-color: rgb(21, 61, 83);
+
+}
+
+@media(max-width:991px){
+
+   .divLogo{
+
+    width: 100vw;
+    height: 40vh;
+ 
+   }
+
+   .divLogin{
+
+    width: 100vw;
+    height: 60vh;
+  
+
+   }
+   .logo{
+
+    height: 20em;
+    width: 20em;
+
+}
+
+    
+}
+@media (min-width:991px) {
+    .divLogo{
+
+        width: 40vw;
+        height: 100vh;
+    
+       }
+    
+       .divLogin{
+    
+        width: 60vw;
+        height:100vh;
+     
+       }
+       .logo{
+
+        height: 25em;
+        width: 25em;
+   
+    
+    }
+}
+
+.sr-only{
+
+    color: white;
+
+}
+
+.form-control{
+color: white !important;
+font-weight: 400;
+}
+
+.form-control::placeholder{
+    color: rgba(162, 191, 199, 1);
+    font-weight: 400;
+    }
+
+.btn-primary{
+
+background-color: rgba(111,23,71,1);
+border: solid 1px black;
+font-size: 18px;
+
+}
+
+#formLogin{
+
+    width: 325px;
+}
+
+#errorCode{
+
+    color: rgb(136, 10, 10);
+
+}
+
+.swal2-confirm{
+  
+    background-color: rgba(111,23,71,1) !important;
+}

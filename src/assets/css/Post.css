@@ -1,0 +1,63 @@
+.card{
+
+    width: 25rem;
+    height: 30rem;
+
+}
+.liked{
+
+    content: url('https://img.icons8.com/color/48/000000/like--v3.png');
+  
+    width: 30px;
+ }
+ .Noliked{
+
+    content: url('https://img.icons8.com/ios/25/000000/like--v1.png');
+    width: 30px;
+ }
+
+
+
+
+
+#btn_Post{
+
+
+ background-color: rgba(111,23,71,1);
+
+}
+
+.card-img-top{
+
+ width: 100%;
+ height: 50%;
+
+}
+
+.newPostForm{
+
+ width: 35em;
+ height: 15em;
+
+}
+
+.likesContainer{
+
+position: absolute;
+bottom: 2%;
+
+}
+.author{
+
+    font-size: 15px;
+    font-weight: 800;
+}
+.likes{
+
+    position: relative;
+
+}
+.date{
+    position: absolute;
+
+}
